@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a0d18191-5b23-4098-996a-af9addb7e66d)# Two-Tier-Flask-Application
+# Two-Tier-Flask-Application
 2 Tier Application with Flask and MYSQL!
 
 1.	Project Overview
