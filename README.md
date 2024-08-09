@@ -276,5 +276,16 @@ Step 7: Verify Application and Data Access Application:
   select * from messages;
 
 •	The input data has been effectively saved in the database, as evident from the displayed tables. 
- 
+
+OutPut
+
+![Instances _ EC2 _ us-east-1 - Google Chrome 07-08-2024 20_18_02](https://github.com/user-attachments/assets/dae5b4c2-2443-4ab6-a348-81fc91a411ae)
+
+![SecurityGroup _ EC2 _ us-east-1 - Google Chrome 07-08-2024 20_20_56](https://github.com/user-attachments/assets/34f44148-f25d-4450-bb2c-d28833805f09)
+
+![3 85 196 93 (ubuntu) 07-08-2024 20_18_45](https://github.com/user-attachments/assets/ffac32c8-4e3c-4123-9364-1a840bb3fe88)
+
+
 Thank you @Sai_Guda Sir 
+
+
