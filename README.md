@@ -207,7 +207,7 @@ Step 6: Create a Docker Network for Communication
         
         Create a Docker Network:
 
-     6.1  docker network create -d bridge two-tier-app-nw
+        docker network create -d bridge two-tier-app-nw
 
 ----------------------------------------------------------------------------------------------------------
 
